@@ -12,5 +12,5 @@ A final year Computer Science university student with a passion for Linux, low-l
 * [Currently adding support for the HyperX Quadcast S microphone](https://gitlab.com/thesilvanator/OpenRGB/-/tree/hyperx-quadcast-s)
 
 ## SnowflakeOS
-* [Added AHCI+SATA Support to SnowflakeOS a hobby homemade operating system](https://github.com/29jm/SnowflakeOS/pull/39)
+* [Added AHCI+SATA support to SnowflakeOS](https://github.com/29jm/SnowflakeOS/pull/39)
 * Currently working to add a generic block device driver and RAM disk support
