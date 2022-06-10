@@ -2,6 +2,7 @@
 * Matthew Silva
 * Queen's University
 * Toronto, ON, Canada
+* 🏳️‍🌈
 
 A final year Computer Science university student with a passion for Linux, low-level programming, and operating system development.
 
