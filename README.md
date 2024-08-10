@@ -1,6 +1,6 @@
 # About
 * Matthew Silva
-* Toronto, ON, Canada
+* From Toronto; working in Ottawa
 * Queen's University Grad
 * Embedded software developer at General Dynamics Mission Systems Canada
 
@@ -9,7 +9,7 @@ Software Developer passionate about Linux, FOSS, low-level programming, osdev, a
 # Contributions
 ## OpenRGB
 * [Added support for the Glorious Model O Wireless mouse](https://gitlab.com/CalcProgrammer1/OpenRGB/-/merge_requests/1218)
-* [Currently adding support for the HyperX Quadcast S microphone](https://gitlab.com/CalcProgrammer1/OpenRGB/-/merge_requests/1417)
+* [Added support for the HyperX Quadcast S microphone](https://gitlab.com/CalcProgrammer1/OpenRGB/-/merge_requests/1417)
 
 ## SnowflakeOS
 * [Added AHCI+SATA support to SnowflakeOS](https://github.com/29jm/SnowflakeOS/pull/39)
