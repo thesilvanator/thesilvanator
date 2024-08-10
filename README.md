@@ -1,7 +1,7 @@
 # About
 * Matthew Silva
-* Queen's University
 * Toronto, ON, Canada
+* Queen's University Grad
 * Embedded software developer at General Dynamics Mission Systems Canada
 
 Software Developer passionate about Linux, FOSS, low-level programming, osdev, and writing quality software.
